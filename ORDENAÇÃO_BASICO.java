@@ -7,13 +7,13 @@ package chamada;
 
 /**
  *
- * @author user
+ * @author YURI
  */
 import java.util.Scanner;
 
 public class chamada {
 
-    public static void main(String[] Matheus) {
+    public static void main(String[] YURI) {
         Scanner ler = new Scanner(System.in);
         int vetor[] = new int[10000];
         String caso = null;
