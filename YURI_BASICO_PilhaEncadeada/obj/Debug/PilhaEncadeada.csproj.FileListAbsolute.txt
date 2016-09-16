@@ -1,0 +1,6 @@
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\PilhaEncadeada\bin\Debug\PilhaEncadeada.exe.config
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\PilhaEncadeada\bin\Debug\PilhaEncadeada.exe
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\PilhaEncadeada\bin\Debug\PilhaEncadeada.pdb
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\PilhaEncadeada\obj\Debug\PilhaEncadeada.exe
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\PilhaEncadeada\obj\Debug\PilhaEncadeada.pdb
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\PilhaEncadeada\obj\Debug\PilhaEncadeada.csprojResolveAssemblyReference.cache
