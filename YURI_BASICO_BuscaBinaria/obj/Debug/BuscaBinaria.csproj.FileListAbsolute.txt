@@ -1,0 +1,6 @@
+C:\Users\yuri\Documents\SharpDevelop Projects\Aula01\BuscaBinaria\bin\Debug\BuscaBinaria.exe.config
+C:\Users\yuri\Documents\SharpDevelop Projects\Aula01\BuscaBinaria\bin\Debug\BuscaBinaria.exe
+C:\Users\yuri\Documents\SharpDevelop Projects\Aula01\BuscaBinaria\bin\Debug\BuscaBinaria.pdb
+C:\Users\yuri\Documents\SharpDevelop Projects\Aula01\BuscaBinaria\obj\Debug\BuscaBinaria.csprojResolveAssemblyReference.cache
+C:\Users\yuri\Documents\SharpDevelop Projects\Aula01\BuscaBinaria\obj\Debug\BuscaBinaria.exe
+C:\Users\yuri\Documents\SharpDevelop Projects\Aula01\BuscaBinaria\obj\Debug\BuscaBinaria.pdb
