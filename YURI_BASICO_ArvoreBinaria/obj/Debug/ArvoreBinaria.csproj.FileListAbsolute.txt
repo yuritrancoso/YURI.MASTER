@@ -1,0 +1,6 @@
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\ArvoreBinaria\bin\Debug\ArvoreBinaria.exe.config
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\ArvoreBinaria\bin\Debug\ArvoreBinaria.exe
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\ArvoreBinaria\bin\Debug\ArvoreBinaria.pdb
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\ArvoreBinaria\obj\Debug\ArvoreBinaria.csprojResolveAssemblyReference.cache
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\ArvoreBinaria\obj\Debug\ArvoreBinaria.exe
+C:\Users\YURI\Documents\SharpDevelop Projects\Aula01\ArvoreBinaria\obj\Debug\ArvoreBinaria.pdb
