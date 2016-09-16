@@ -1,0 +1,22 @@
+﻿<Window x:Class="CriptografiaDados.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CriptografiaDados"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" FontSize="18">
+    <Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="36,33,0,0" TextWrapping="Wrap" Text="TEXTO SEM CRIPTOGRAFIA:" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtSemCript" HorizontalAlignment="Left" Height="31" Margin="36,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="387"/>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Margin="36,90,0,0" TextWrapping="Wrap" Text="TEXTO COM CRIPTOGRAFIA:" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCript" HorizontalAlignment="Left" Height="38" Margin="36,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="387"/>
+        <TextBlock x:Name="txtResposta" HorizontalAlignment="Left" Margin="36,162,0,0" TextWrapping="Wrap" Text="RESPOSTA" VerticalAlignment="Top"/>
+        <Button x:Name="buttonMD5" Content="hash md5" HorizontalAlignment="Left" Margin="10,216,0,0" VerticalAlignment="Top" Width="75" Click="buttonMD5_Click"/>
+        <Button x:Name="buttonSHA1" Content="hash sha1" HorizontalAlignment="Left" Margin="10,253,0,0" VerticalAlignment="Top" Width="75" Click="buttonSHA1_Click"/>
+        <Button x:Name="buttonCriptSim" Content="Criptografar (Simétrica)" HorizontalAlignment="Left" Margin="222,218,0,0" VerticalAlignment="Top" Width="207" Click="buttonCriptSim_Click"/>
+        <Button x:Name="buttonDecriptSim" Content="Descriptografar (simétrica)" HorizontalAlignment="Left" Margin="222,260,0,0" VerticalAlignment="Top" Width="207" Click="buttonDecriptSim_Click"/>
+        
+
+    </Grid>
+</Window>

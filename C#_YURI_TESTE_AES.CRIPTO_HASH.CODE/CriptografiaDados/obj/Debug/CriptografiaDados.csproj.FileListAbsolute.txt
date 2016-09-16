@@ -1,0 +1,14 @@
+c:\estudo\CriptografiaDados\CriptografiaDados\bin\Debug\CriptografiaDados.exe.config
+c:\estudo\CriptografiaDados\CriptografiaDados\bin\Debug\CriptografiaDados.exe
+c:\estudo\CriptografiaDados\CriptografiaDados\bin\Debug\CriptografiaDados.pdb
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\CriptografiaDados.csprojResolveAssemblyReference.cache
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\MainWindow.g.cs
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\App.g.cs
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\CriptografiaDados_MarkupCompile.cache
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\CriptografiaDados_MarkupCompile.lref
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\MainWindow.baml
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\CriptografiaDados.g.resources
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\CriptografiaDados.Properties.Resources.resources
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\CriptografiaDados.csproj.GenerateResource.Cache
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\CriptografiaDados.exe
+c:\estudo\CriptografiaDados\CriptografiaDados\obj\Debug\CriptografiaDados.pdb
